@@ -7,7 +7,7 @@ My friend showed me PushBullet, I liked it. I like Python, combine the two to ac
 
 You need python (2 or 3), that's it!
 
-You can get your API Key from https://www.pushbullet.com/settings
+You can get your API Key from https://www.pushbullet.com/account
 
 Using the library:
 
